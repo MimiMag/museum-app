@@ -10,15 +10,20 @@
 ## How
 
 * Separate exercises (projects) and theories (modules) 
-    * To make maintaining easier (you only have to change or add modules and make sure the topics are incorporated in the project)
-    * To make it easier to use the reader as a reference
+  * To make maintaining easier (you only have to change or add modules and make sure the topics are incorporated in the project)
+  * To make it easier to use the reader as a reference
+  * Would open the opportunity to make small video lectures about each topic
 
-* Defining clear learning objectives so students know in which topics they have to spend some extra time
+* Defining clear learning objectives
+  * To make students agents of their own learning (they know what they understand and what they should work on)
+  * To help prioritize changes we make as teachers in the material
+  * Making it easier to assess learning and the effect of changes in the curriculum on the learning of students.
+
 
 * Proposed class structure:
-    * **09:30-10:30** Recap
-    * **10:30-15:30** Students work on project, attend lectures (max 3 of 45 min.)
-    * **15:30-18:00** Read for next day, practice what you have difficulties with.
+  * **09:30-10:30** Recap
+  * **10:30-15:30** Students work on project, attend lectures (max 3 of 45 min.)
+  * **15:30-18:00** Read for next day, practice what you have difficulties with.
 
 ## Definition
   * A project
