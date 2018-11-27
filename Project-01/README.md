@@ -10,3 +10,6 @@ By the end of the project...
 
 Key word here are introducing and implementing. Actually applying their JS will be done in a project on day 5 and during the homework.
 
+## Currently missing
+* if/else statements
+  * I still want to incoporate those somehow
