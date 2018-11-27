@@ -37,9 +37,11 @@
 * [ ] The student knows the following HTML tags, and when/why they should use them: head, link, style, body, header, main, footer, article, a, p, h1-6, img
 
 ## Modules
-  * Terminal
-  * Git/Github
-  * HTML
+  * Terminal 1
+  * Git 1
+  * GitHub 1
+  * HTML 1
+  * Chrome DevTools 1
 
 ## Assignments
 * Create (init) a new git repository
