@@ -14,13 +14,13 @@
     * terminal
     * command
     * parameters
-    * command-line
+    * command-line / command-prompt
     * shell (Bash, Zsh)
     * tab-completion
-    * history
-    * process
-    * environment variables
-    * probably overkill, but: file, directory, path, relative path
+    * file
+    * directory
+    * path
+    * relative path
 * [ ] The student is familiar with HTML terminology:
     * element
     * attribute (name and value)
