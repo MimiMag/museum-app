@@ -28,18 +28,22 @@
 
 ## Definition
   * A project
-    * consists of different stages, which have to be completed in order
+    * consists of different steps, which have to be completed in order
     * Always has a useful end result which can be pushed to GitHub
     * Introduces the concepts discussed in modules in context
+    * Format:
+      * General intro with context ( are we building frontend, back end, db etc?)
+      * Visual of final product
+      *
 
-  * A stage
-    * Consists of 4-5 learning goals per stage presented at the beginning of the stage
+  * A step
+    * Consists of 4-5 learning goals per step presented at the beginning of the step
     * Can be completed without any external help (all info should be in the modules)
     * Should link to max 5 modules, which should be mentioned at the beginning of each state
     * Starts and ends with a quiz to assess the students learning 
 
   * A module
-    * Is independent from a projects/stages (can be used for different projects)
+    * Is independent from a projects/steps (can be used for different projects)
     * Is about 10.000 words long (a 30 min. read) and never longer then 20.000 words (a 60 min. read) 
     * Consists of...
       * a list of modules that should be read to understand the current module

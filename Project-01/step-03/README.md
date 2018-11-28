@@ -1,4 +1,4 @@
-# Stage 02: DOM - creating a form
+# Step 02: DOM - creating a form
 
 ## Learning Goals
 * [ ] The student can use the javascript console of their devTools to inspect the DOM and try their JS
