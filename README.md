@@ -1,11 +1,12 @@
 # Revising BB
 
 ## Why?
-* We want to grow the number of hirable 'strong independent developers' exponentially. A way to do so is to design the course material in such a way that a student could work with it on their own.
 
 * The current material is tough to maintain. Teachers are not always aware of the changes that other teachers make, or how changing a topic influences other days
 
 * Students have difficulties using the reader as a reference, because all info is wrapped in projects
+
+* We want to grow the number of hirable 'strong independent developers' exponentially. A way to do so is to design the course material in such a way that a student could work with it on their own.
 
 ## How
 
